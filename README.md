@@ -42,7 +42,7 @@ This project explores a cutting-edge solution for secure data sharing among IoT 
 
 ## <img src="https://img.icons8.com/ios-filled/24/000000/link--v1.png" width="22"/> Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/nagaripavan)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nagaripavan03)
 - 🐦 [Twitter](https://twitter.com/nagaripavan)
 - 🌐 [GitHub Profile](https://github.com/nagaripavan)
 
